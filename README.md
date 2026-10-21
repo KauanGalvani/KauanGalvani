@@ -1,4 +1,4 @@
-# Olá! Eu sou o Kauan Galvani 👋
+# Olá! Eu sou o Kauan Galvani 
 
 ### Desenvolvedor Full Stack
 
